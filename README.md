@@ -1,6 +1,8 @@
 ## Custom Widget for [Wakanda](http://wakanda.org)
 Integration of just gage widget to Wakanda widgets object 
 
+
+![Example](http://www.drweb.de/magazin/wp-content/uploads/justgage.png)
 ### Properties
 This widget has the following properties:
 
